@@ -28,7 +28,9 @@
 <p align="left">Passionate and self-driven Data Analyst and Frontend Developer with hands-on experience in tools like SQL, Excel, Power BI, Python, and HTML/CSS/JavaScript. Skilled in creating dynamic dashboards, extracting actionable insights from large datasets, and building responsive web interfaces.</p>
 
 ###
-<h3 align="left"> 📫 Connect With Me  <br>📱 Phone : +91-9133792875</br>
+<h3 align="left"> 📫 Connect With Me  
+  
+  <br>📱 Phone : +91-9133792875</br>
   📧 Email : harimakineedi29@email.com </h3>
 
 <h3 align="left">💻 Tech Stack</h3>
