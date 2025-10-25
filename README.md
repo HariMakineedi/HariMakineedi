@@ -5,6 +5,10 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Hari Makineedi</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=4B9CD3&center=true&vCenter=true&width=700&lines=Data+Analyst;Business+Analyst;Computer+Science+Student;Passionate+About+Data+Visualization;Turning+Data+Into+Insights">
+</p>
+
 
 ###
 
