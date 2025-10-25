@@ -14,7 +14,7 @@
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hari__makineedi__/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hari-makineedi/) [![Email](https://img.shields.io/badge/Mail-%23D14836.svg?logo=gmail&logoColor=white)](mailto:harimakineedi29@gmail.com)
-[![Phone](https://img.shields.io/badge/Call-%23007AFF.svg?logo=phone&logoColor=white)](tel:+91 9133792875)
+[![Phone](https://img.shields.io/badge/Call-%23007AFF.svg?logo=phone&logoColor=white)](tel:9133792875)
 
 
 
